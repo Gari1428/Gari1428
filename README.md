@@ -7,7 +7,7 @@
 
 ---
 
-🔍 I’m a data enthusiast with nearly **2 years of experience as a Senior Data Analyst** in the banking and finance domain, and I’m actively upskilling to become a **Data Scientist**.
+🔍 I’m a data enthusiast with nearly **2.5 years of experience as a Senior Data Analyst** in the banking and finance domain, and I’m actively upskilling to become a **Data Scientist**.
 
 💡 I love solving real-world problems through data, and I’m passionate about **analytics, machine learning, and data storytelling**.
 
