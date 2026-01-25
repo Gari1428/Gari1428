@@ -17,6 +17,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-6A5ACD?style=for-the-badge&logo=NLP&logoColor=black)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6F61?style=for-the-badge&logo=GenAI&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Maths & Statistics](https://img.shields.io/badge/-Statistics-blue?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
