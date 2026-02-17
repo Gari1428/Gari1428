@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Garima</h1>
-<h3 align="center">Senior Data Analyst | Aspiring Data Scientist</h3>
+<h3 align="center">Manager - Data & Analytics | Aspiring Data Scientist</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
