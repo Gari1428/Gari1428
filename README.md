@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Garima</h1>
-<h3 align="center">Manager - Data & Analytics | Aspiring Data Scientist</h3>
+<h3 align="center">Manager - Data & Analytics | Aspiring Data & AI Scientist</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200"/>
@@ -7,7 +7,7 @@
 
 ---
 
-🔍 I’m a data enthusiast with **2.5 years of experience as a Senior Data Analyst** in the banking and finance domain, and I’m actively upskilling to become a **Data Scientist**.
+🔍 I’m a data enthusiast with **2.7 years of experience as a Manager - Data & Analytics** in the banking and finance domain, and I’m actively upskilling to become a **Data & AI Scientist**.
 
 💡 I love solving real-world problems through data, and I’m passionate about **analytics, machine learning, and data storytelling**.
 
